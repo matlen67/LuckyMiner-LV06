@@ -9,6 +9,11 @@ Meine LuckyMiner haben alle die Leiterplatten-Revision: XSL 24001PCV11 mit Datum
 
 Die hier angebotene esp-miner.bin ändert die im NVS (kleiner Speicherbereich im ESP32) geschriebene boardversion von 204 auf 0.11
 
+## Update 12.02.2025
+Über den Webflasher kann nun direkt eine factory.bin für den LuckyMinerLV06 geflasht werden. Diese enthält die richtige Boardversion.
+
+https://matlen67.github.io/bitaxe-web-flasher/
+
 
 ### Hintergrund
 
