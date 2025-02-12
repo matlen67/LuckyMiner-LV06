@@ -12,7 +12,7 @@ Die hier angebotene esp-miner.bin ändert die im NVS (kleiner Speicherbereich im
 ## Update 12.02.2025
 Über den Webflasher kann nun direkt eine factory.bin für den LuckyMinerLV06 geflasht werden. Diese enthält die richtige Boardversion.
 
-https://matlen67.github.io/bitaxe-web-flasher/
+https://github.com/matlen67/bitaxe-web-flasher
 
 
 ### Hintergrund
